@@ -15,27 +15,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
           </ul>
         </article>
@@ -47,27 +47,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
           </ul>
         </article>
@@ -79,27 +79,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>The beauty of life is in it uniqueness.</p>
+              <p>The beauty of life is in its uniqueness.</p>
             </li>
           </ul>
         </article>

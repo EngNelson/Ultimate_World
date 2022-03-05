@@ -58,13 +58,26 @@
 }
 
 
+/* ============ MEDIA QUERIES (MEDIUM DEVICES) =========== */
+
+@media screen and (max-width: 1024px) {
+    .container.contact__container {
+        align-items: center;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+
 /* ============ MEDIA QUERIES (SMALL DEVICES) =========== */
 
 @media screen and (max-width: 600px) {
     .experience__container {
+        text-align: center;
         gap: 1rem;
     }
     .experience__container>div {
+        text-align: center;
         width: 100%;
         padding: 2rem 1rem;
     }

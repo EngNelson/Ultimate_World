@@ -17,17 +17,17 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Simon Modi",
+    name: "Simon & Theres",
     review: "Connecting with you in the tech industry has been very beneficial",
   },
   {
     avatar: AVTR2,
-    name: "Simon Modi",
+    name: "Lampson",
     review: "",
   },
   {
     avatar: AVTR3,
-    name: "Simon Modi",
+    name: "Nshom",
     review: "",
   },
   {

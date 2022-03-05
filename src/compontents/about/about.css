@@ -52,15 +52,19 @@
 }
 
 .about__card h5 {
+    align-items: center;
+    text-align: center;
     font-size: 0.95rem;
 }
 
 .about__card small {
+    align-items: center;
     font-size: 0.7rem;
     color: var(--color-light);
 }
 
 .about__container p {
+    text-align: center;
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
 }
@@ -68,16 +72,23 @@
 
 /* ============ MEDIA QUERIES (MEDIUM DEVICES) =========== */
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 104px) {
     .about__container {
+        text-align: center;
+        align-items: center;
         grid-template-columns: 1fr;
         gap: 0;
     }
     .about__me {
+        /* text-align: center;
+        
+        */
+        align-items: center;
         width: 50%;
         margin: 2rem auto 4rem;
     }
     .about__content p {
+        align-items: center;
         margin: 1rem 0 1.5rem;
     }
 }
@@ -89,6 +100,7 @@
     .about__me {
         width: 65%;
         margin: 0 auto 3rem;
+        align-items: center;
     }
     .about__cards {
         grid-template-columns: 1f 1fr;
@@ -98,6 +110,8 @@
         text-align: center;
     }
     .about__content p {
+        text-align: center;
         margin: 1.5rem 0;
+        align-items: center;
     }
 }

@@ -37,9 +37,11 @@ const About = () => {
           </div>
 
           <p>
-            Software Engineering is a journey, at each level there are always
-            new tools and skirls to talk about and learn, the challenges that
-            tied along side this profession are unheard off.
+            Sure, so, my name is Nelson and I am a full stack developer(MERN
+            Stack). I have a background in Computer Engineering, with a degree
+            from the University of Buea and an advanced Software Engineering
+            Virtual Experience in JPMORGAN CHASE&CO, FreeCodeCamp, and Walmart
+            Companies.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
